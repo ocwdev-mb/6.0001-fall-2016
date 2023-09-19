@@ -1,0 +1,65 @@
+leftnav:
+- identifier: 678646fa-7bd0-df01-4b7a-c47adbdbe694
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 548a73f0-c2bd-bb38-690b-abcbf631d541
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 43cb621f-58a2-fd7c-7cf1-c50e8e0a9d57
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: f39a25a3-5f6b-0d3e-6388-e9b2e8b7438e
+  name: Lecture Slides and Code
+  pageRef: /pages/lecture-slides-code
+  weight: 40
+- identifier: cc74bf5b-1a22-399e-2712-70abfff469d7
+  name: In-Class Questions and Video Solutions
+  pageRef: /pages/in-class-questions-and-video-solutions/
+  weight: 50
+- identifier: 021d8a0e-70c6-4737-bc1f-315eea727f84
+  name: Lecture 1
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-1
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 60
+- identifier: 666db218-db6d-8103-cdcf-41e2960132be
+  name: Lecture 2
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-2
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 70
+- identifier: 6f345174-e0dc-c7e8-1d42-cb983600c3b0
+  name: Lecture 3
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-3
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 80
+- identifier: 828237fd-efb5-0c69-43b8-3bf16ff40267
+  name: Lecture 4
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-4
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 90
+- identifier: 2d1ecaea-f49e-8ee7-cac3-ea3ce9cbe081
+  name: Lecture 5
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-5
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 100
+- identifier: f6173231-3f52-9164-402d-295ceb4706e8
+  name: Lecture 7
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-7
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 110
+- identifier: ffd17f7b-b232-3aab-9bf4-1b8697c77ccd
+  name: Lecture 8
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-8
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 120
+- identifier: d168b144-bfeb-0cd9-daf8-c345966e90d4
+  name: Lecture 9
+  pageRef: /pages/in-class-questions-and-video-solutions/lecture-9
+  parent: cc74bf5b-1a22-399e-2712-70abfff469d7
+  weight: 130
+- identifier: 4f4256e8-99a1-396c-7b78-8c0d1442d6ca
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 140

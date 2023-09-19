@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "9833b95b-8cbb-8e0e-7928-063857ea2761",
+  "instructors": {
+    "content": [
+      "5c0454cf-72a0-46d9-66ca-fa2edb801005",
+      "c010ab86-ace6-3792-07c9-ce6c8e62e38f",
+      "0fb19bce-9520-8355-d51a-1d5087eb5391"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb7bc760-922a-bfcd-37f5-d8b9203d771f",
+    "website": "6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016"
+  },
+  "course_title": "Introduction to Computer Science and Programming in Python",
+  "course_description": "_6.0001 Introduction to Computer Science and Programming in Python_ is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.0001",
+  "course_image_thumbnail": {
+    "content": "10cee5c2-3c90-3427-1800-f886a7ec68db",
+    "website": "6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "71ad7cf6-d1bb-4cee-aa16-c5a86a3393c8",
+  "site_short_id": "6.0001-fall-2016",
+  "title": "Course Metadata"
+}
